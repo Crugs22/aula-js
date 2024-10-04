@@ -1,0 +1,25 @@
+{
+  "name": "pge",
+  "version": "1.0.0",
+  "description": "Convenience wrapper for node-postgres",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abrkn/pge.git"
+  },
+  "keywords": [
+    "node",
+    "postgres",
+    "pool",
+    "query",
+    "wrapper"
+  ],
+  "author": "Andreas Brekken <a@abrkn.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrkn/pge/issues"
+  },
+  "homepage": "https://github.com/abrkn/pge",
+  "dependencies": {
+    "pg": "*"
+  }
+}
